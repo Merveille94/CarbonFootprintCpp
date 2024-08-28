@@ -1,6 +1,6 @@
 # Carbon Footprint Calculator using C++
 
-Welcome to the Carbon Footprint Calculator, a simple C++ program designed to help you estimate the carbon emissions associated with various activities in your daily life. This project provides an interactive console application that calculates your carbon footprint based on transportation, electricity usage, and waste management.
+Welcome to the Carbon Footprint Calculator, a simple C++ program designed to help you estimate the carbon emissions associated with various activities in your daily life. This project provides an interactive console application that calculates your carbon footprint based on transportation, electricity usage, and waste managements.
 
 ## Table of Contents
 
