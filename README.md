@@ -54,3 +54,4 @@ This project was initially developed in May 2024 on my local machine. The projec
 
 The Carbon Footprint Calculator is planned to be expanded into a web application using React, with the development starting in June 2024. The web version will provide a more user-friendly interface and enhanced features for a broader audience.
 
+copied by Curtis
